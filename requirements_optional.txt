@@ -4,4 +4,3 @@ click<8,>=7
 shodan
 tika-app>=1.4.0
 virustotal-api
-XlsxWriter>=3.2.0
