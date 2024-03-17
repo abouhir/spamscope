@@ -1,5 +1,7 @@
 elasticsearch>=6.0.0, <7
 redis>=2.10.5, <3
+click<8  # Use a version of click that is compatible with Python 2.7
 shodan
 tika-app>=1.4.0
 virustotal-api
+
